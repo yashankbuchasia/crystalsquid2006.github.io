@@ -4,5 +4,5 @@
 *My electronics projects.*
 *Images of my projects.*
 *Vedios of my projects*
-[link to google](http//google.com.)
-:satisfied:
+[link to google](http://google.com.)
+:tennis:
