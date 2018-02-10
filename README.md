@@ -6,4 +6,4 @@
 *Vedios of my projects*
 [link to google](http://google.com.)
 :tennis:
-(https://octodex.github.com/images/yaktocat.png)
+[image of yaktocat](https://octodex.github.com/images/yaktocat.png)
