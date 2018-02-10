@@ -5,5 +5,4 @@
 *Images of my projects.*
 *Vedios of my projects*
 [link to google](http://google.com.)
-:tennis:
-![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
