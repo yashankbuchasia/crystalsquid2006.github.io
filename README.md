@@ -3,5 +3,5 @@
 *I will upload my python projects.*
 *My electronics projects.*
 *Images of my projects.*
-*Vedios of my projects.*
-[linkk to google]
+*Vedios of my projects*
+[linkk to google](http//google.com.)
